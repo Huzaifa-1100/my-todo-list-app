@@ -1,0 +1,21 @@
+{
+  "name": "my-tudo-list-app-1100-for-all",
+  "version": "1.0.1",
+  "description": "This is simple cli todo list app",
+  "main": "index.js",
+  "type": "module",
+  "bin": "tech.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huzaifa",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.2"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  }
+}
